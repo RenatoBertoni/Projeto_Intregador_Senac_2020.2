@@ -13,7 +13,3 @@ The main java file (or class :)) is named "ToRunAway.java", which calls all the 
 
 To execute it simply run the file "ToRunAway.java". It will open a command line window which will lead you through the game's dialogue menus. 
 
-
-```bash
-# Example installation command
-npm install
